@@ -47,7 +47,7 @@ h4 {
   font-size: 1.5rem;
 }
 
-h5 {
+h5, #job-position {
   font-size: 1.5rem;
 }
 
@@ -288,5 +288,9 @@ section {
   footer {
     position: absolute;
     bottom: -100%;
+  }
+
+  #assorted-projects {
+    display: none;
   }
 }
